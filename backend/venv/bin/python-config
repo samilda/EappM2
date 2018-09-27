@@ -1,4 +1,4 @@
-#!/home/kissmyskunk/Dev/flask_jdm/venv/bin/python
+#!/auto_home/jguillonneau02/flask_jdm/backend/venv/bin/python
 
 import sys
 import getopt
